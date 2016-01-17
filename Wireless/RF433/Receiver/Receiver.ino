@@ -8,6 +8,9 @@
 // Required libraries (check 'Libraries' folder in root directory):
 // - VirtualWire: https://www.pjrc.com/teensy/td_libs_VirtualWire.html
 
+// Hardware info:
+// - Receiver voltage: 5v
+
 #include <VirtualWire.h>
 
 const int SERIAL_BAUDRATE = 9600;
