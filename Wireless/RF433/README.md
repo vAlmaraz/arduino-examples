@@ -1,4 +1,4 @@
-# Sensor: RF 433 Transmitter / Receiver
+# Wireless: RF 433 Transmitter / Receiver
 
 More info: see sketches comments
 
