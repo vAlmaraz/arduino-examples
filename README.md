@@ -19,7 +19,7 @@ A list of (basic to advanced) examples about different Arduino modules.
 
 ## Credits
 
-- Víctor Almaraz a.k.a. [vAlmaraz](http://www.valmaraz.com)
+- Víctor Almaraz (a.k.a. [vAlmaraz](http://www.valmaraz.com))
 
 ## License
 
