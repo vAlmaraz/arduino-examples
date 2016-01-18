@@ -8,14 +8,18 @@ A list of (basic to advanced) examples about different Arduino modules.
 - Servos (Coming soon)
 
 ### Sensors
-- [Ultrasonic HY-SRF05, HC-SR04!](Sensor/Ultrasonic)
+- [Ultrasonic HY-SRF05, HC-SR04](Sensor/Ultrasonic)
 
 ### Wireless
-- [RF 433 MHz: transmitter and receiver!](Wireless/RF433)
+- [RF 433 MHz: transmitter and receiver](Wireless/RF433)
 - Bluetooth JY-MCU / HC-06 (Coming soon)
 
 ### Processing
 - Drawing (Coming soon)
+
+## Credits
+
+- Víctor Almaraz a.k.a. [vAlmaraz](http://www.valmaraz.com)
 
 ## License
 
