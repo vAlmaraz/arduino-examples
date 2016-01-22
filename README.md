@@ -7,15 +7,18 @@ A list of (basic to advanced) examples about different Arduino modules.
 ### Motor
 - Servos (Coming soon)
 
+### Others
+- Wii Nunchuck (Coming soon)
+
+### Processing
+- Drawing (Coming soon)
+
 ### Sensors
 - [Ultrasonic HY-SRF05, HC-SR04](Sensor/Ultrasonic)
 
 ### Wireless
 - [RF 433 MHz: transmitter and receiver](Wireless/RF433)
-- Bluetooth JY-MCU / HC-06 (Coming soon)
-
-### Processing
-- Drawing (Coming soon)
+- [Bluetooth HC-06 (JY-MCU) & HC-05](Wireless/Bluetooth)
 
 ## Credits
 
