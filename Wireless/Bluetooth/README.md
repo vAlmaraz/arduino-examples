@@ -20,8 +20,8 @@ Bluetooth voltage: 3.6v to 6v (3.3v recommended)
 ### License
 
 MIT License (see root directory)
-
-More info: see sketches comments
+ 
+### Pictures
 
 ![alt text][img_bluetooth]
 

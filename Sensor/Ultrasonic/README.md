@@ -20,9 +20,8 @@ Ultrasonic voltage: 5v
 ### License
 
 MIT License (see root directory)
-
-
-More info: see sketches comments
+ 
+### Pictures
 
 ![alt text][img_ultrasonic_1]
 ![alt text][img_ultrasonic_2]

@@ -20,8 +20,8 @@ Transmitter and receiver voltage: 5v
 ### License
 
 MIT License (see root directory)
-
-More info: see sketches comments
+ 
+### Pictures
 
 ![alt text][img_transmitter]
 ![alt text][img_receiver]
