@@ -9,6 +9,7 @@
 
 // Hardware info:
 // - Module: HC-06 (verified) / HC-05 (must work, not verified)
+// - May not work with Bluetooth 4.0 devices
 // - Bluetooth voltage: 3.6v to 6v (3.3v recommended)
 
 #include <SoftwareSerial.h>

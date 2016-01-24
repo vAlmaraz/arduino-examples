@@ -1,6 +1,7 @@
 # Arduino Examples
 
 A list of (basic to advanced) examples about different Arduino modules.
+More info: see ReadMes in subdirectories.
 
 ## Modules
 

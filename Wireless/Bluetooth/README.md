@@ -6,6 +6,7 @@ HC-06 (JY-MCU), HC-05 (must work, not verified)
 
 ### Hardware info
 
+May not work with Bluetooth 4.0 devices
 Bluetooth voltage: 3.6v to 6v (3.3v recommended)
 
 ### Sketches
