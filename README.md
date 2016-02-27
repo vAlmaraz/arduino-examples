@@ -9,7 +9,7 @@ More info: see ReadMes in subdirectories.
 - Servos (Coming soon)
 
 ### Others
-- Wii Nunchuck (Coming soon)
+- [Wii Nunchuck](Other/WiiNunchuck)
 
 ### Processing
 - Drawing (Coming soon)
