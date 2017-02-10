@@ -10,6 +10,7 @@ More info: see ReadMes in subdirectories.
 
 ### Others
 - [Wii Nunchuck](Other/WiiNunchuck)
+- [Clock DS1307RTC](Other/DS1307RTC)
 
 ### Processing
 - Drawing (Coming soon)
